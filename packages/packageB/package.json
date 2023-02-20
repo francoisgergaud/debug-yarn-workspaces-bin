@@ -1,5 +1,5 @@
 {
-  "name": "@scope/packageB",
+  "name": "packageB",
   "private": true,
   "version": "1.0.0",
   "bin" : {
