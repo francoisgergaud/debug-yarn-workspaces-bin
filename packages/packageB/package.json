@@ -1,0 +1,8 @@
+{
+  "name": "@scope/packageB",
+  "private": true,
+  "version": "1.0.0",
+  "bin" : {
+    "packageBUtil" : "./src/utility.js"
+  }
+}
