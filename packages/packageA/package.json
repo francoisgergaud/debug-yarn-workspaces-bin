@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "devDependencies": {
-    "@scope/packageB": "^1.0.0"
+    "packageB": "^1.0.0"
   },
   "scripts": {
     "preinstall" : "yarn packageBUtil --verbose"
